@@ -29,6 +29,8 @@ Olá, eu sou Gabriel, um estudante de sistemas de informação e amante da tecno
 <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-003366?style=for-the-badge&logo=sql&logoColor=white" />
 <img align="center" alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 
 ### Encontre-me:
 
