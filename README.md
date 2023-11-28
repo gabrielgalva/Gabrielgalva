@@ -27,5 +27,6 @@ Olá, eu sou Gabriel, um estudante de sistemas de informação e amante da tecno
 
 [![GitHub Web Page](https://img.shields.io/badge/GitHub_page-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Gabrielgalva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=2b68ed)](https://www.linkedin.com/in/gabriel-galv%C3%A3o-dos-anjos-4b43b2259)
+ <a href = "gabrieldosanjos136@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
