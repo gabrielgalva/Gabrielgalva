@@ -1,6 +1,6 @@
 ## Oii !!!! Eu sou Gabriel Galvão dos Anjos
 
-### Sobre mim
+### Sobre mim:
 Olá, eu sou Gabriel, um estudante de sistemas de informação e amante da tecnologia. Estou sempre fascinado pelas inovações tecnológicas e empolgado em aprender mais sobre como a tecnologia molda o nosso mundo. 
 <div style="display: flex; justify-content: space-between;">
 
