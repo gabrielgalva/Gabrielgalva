@@ -1,7 +1,8 @@
-## Oii !!!! Eu sou Gabriel Galvão dos Anjos
+## Hi there! I'm Gabriel Galvão dos Anjos
 
-### Sobre mim:
-Olá, eu sou Gabriel, um estudante de sistemas de informação e amante da tecnologia. Estou sempre fascinado pelas inovações tecnológicas e empolgado em aprender mais sobre como a tecnologia molda o nosso mundo. 
+### About me:
+Hello, I'm Gabriel, a systems information student, and technology enthusiast. I'm always fascinated by technological innovations and excited to learn more about how technology shapes our world.
+
 <div style="display: flex; justify-content: space-between;">
 
   ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielgalva&show_icons=true&theme=dracula)
@@ -12,8 +13,7 @@ Olá, eu sou Gabriel, um estudante de sistemas de informação e amante da tecno
 
 </div>
 
-
- ### Habilidades:
+### Skills:
 
 <div style="display: inline_block">
  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,8 +31,7 @@ Olá, eu sou Gabriel, um estudante de sistemas de informação e amante da tecno
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-
-### Encontre-me:
+### Find me:
 
 [![GitHub Web Page](https://img.shields.io/badge/GitHub_page-000000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Gabrielgalva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=2b68ed)](https://www.linkedin.com/in/gabriel-galv%C3%A3o-dos-anjos-4b43b2259)
